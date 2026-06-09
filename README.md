@@ -12,3 +12,5 @@ Nothing here is real — break things freely.
 5. Request a reviewer → after it merges, watch your card land in **Done**.
 
 > Everyone edits a *different* file, so no one's change collides with anyone else's.
+
+Hi I do this
