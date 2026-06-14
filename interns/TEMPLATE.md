@@ -1,6 +1,6 @@
-# 👋 Hi, I'm <your name>
+# 👋 Hi, I'm <Abubakr>
 
-- **GitHub:** @your-handle
-- **Joined the workshop:** <today's date>
-- **One thing I want to build:**
-- **Favorite tool so far:**
+- **GitHub:** @rewensew
+- **Joined the workshop:** 09.06.26
+- **One thing I want to build:** dom
+- **Favorite tool so far:** gg
